@@ -1,0 +1,6 @@
+secret-message
+│
+├── index.html
+├── decrypt.html
+├── style.css
+└── script.js
